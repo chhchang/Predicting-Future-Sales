@@ -10,12 +10,11 @@ The list of deliverables are introducted below:
 
 **Data Acquisition** - Obtaining and wrangling of dataset to prepare it for EDA and machine learning
 
-**Capstone 2 Exploratory Data Analysis** - Exploring the dataset based on its features, such as categories, sales, availability 
-duration, and pricing
+**Capstone 2 Exploratory Data Analysis** - Exploring the dataset based on its features such as categories, sales, availability duration, and pricing
 
 **Milestone Report** - Draft of final report
 
-**Random Forests & Gradient Boosting Models** - Applying and optimizing of both random forest and gradient boosting regressor models by engineering new features
+**Random Forests & Gradient Boosting Models** - Applying and optimizing of both models with feature engineering 
 
 **SARIMA Prediction** - Applying and optimizing SARIMA models by using grid search
 
