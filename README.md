@@ -1,5 +1,3 @@
-### Springboard Capstone 2 Project
-
 # Predicting Future Sales
 
 This is a project that compares multiple machine learning models to make prediction of future month sales. The data used in this project is a challenging time-series dataset of daily sales data provided by a large Russian software firm - 1C Company. The data is featured in a Kaggle challenge: [Predict Future Sales - Final project for "How to win a data science competition" Coursera course](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data)
